@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="uz">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DasturxonWEB</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="header">
+        <div class="logo">DasturxonWEB</div>
+
+        <nav class="menu">
+            <a href="#hero1">Pastel</a>
+            <a href="#hero2">Murojat</a>
+            <a href="#hero3">Aloqa</a>
+            <a href="#footer">Qidirish</a>
+        </nav>
+    </header>
+
+    <section class="hero hero1" id="hero1">
+        <div class="hero-left">
+            <h1>Karobkali Pastel</h1>
+            <p>Bizda eng orginal Pastel, Dasturxon Xitoy tovarlar mavjud.</p>
+        </div>
+        <div class="hero-right">
+            <img src="/ChatGPT Image Apr 6, 2026, 04_11_45 PM.png" alt="Rasm">
+        </div>
+    </section>
+
+    <section class="hero hero2" id="hero2">
+        <div class="hero-left">
+            <h2>ENG CHIROYLI Pastel</h2>
+            <p>Sifatli, zamonaviy va ko‘zni quvontiradigan mahsulotlarni shu yerda topasiz.</p>
+        </div>
+        <div class="hero-right">
+            <img src="/photo_2026-04-01_14-19-21.jpg" alt="Rasm">
+        </div>
+    </section>
+
+    <section class="hero hero3" id="hero3">
+        <div class="hero-left">
+            <h2>ORIGINAL VA CHIROYLI USLUB</h2>
+            <p>Har bir mahsulot o‘ziga xos dizayn, nafis rang va chiroyli ko‘rinish bilan taqdim etiladi.</p>
+        </div>
+        <div class="hero-right">
+            <img src="/ChatGPT Image Apr 6, 2026, 04_15_22 PM.png" alt="Rasm">
+        </div>
+    </section>
+
+    <footer class="footer" id="footer">
+        <div class="footer-quti">
+            <h2>DasturxonWEB</h2>
+            <p class="footer-text">Bizda eng original pastel, dasturxon va Xitoy tovarlari mavjud.</p>
+
+            <div class="footer-malumot">
+                <p><strong>Telegram kanal:</strong> <a href="https://t.me/postel_optom_dasturxon" target="_blank">@shaxzod_pastellar_optom</a>
+                </p>
+                <p><strong>Instagram:</strong> <a href="https://www.instagram.com/dasturxon5a13?igsh=Z29zd3k4b2lqOXhq"
+                        target="_blank">@dasturxon5a13</a></p>
+                <p><strong>Do‘kon manzili:</strong> Toshkent, Abu Saxiy, 5-A-Qator, 13-Do'kon</p>
+                <p><strong>Telefon:</strong> +998 50 222 22 04</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
